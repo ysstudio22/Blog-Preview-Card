@@ -37,7 +37,7 @@ section {
     display: flex;
     flex-direction: row;
     height: auto;
-    width: 12rem;
+    width: 9rem;
 
     & h4 {
       margin: auto;
