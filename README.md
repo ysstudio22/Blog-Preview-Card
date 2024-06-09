@@ -26,7 +26,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### What I learned
    The thing that caught my eye after looking the design was the "Learning" label on the card as shown below.
 
-  ![Blog Preview Card Text](/assets/images/Blog Preview Card Text.png)
+  ![Blog Preview Card Text](assets/images/Blog Preview Card Text.png)
 
    There were perhaps a couple of options to write this out, but I went with using a span element.
 
