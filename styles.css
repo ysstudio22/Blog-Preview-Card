@@ -36,7 +36,6 @@ section {
 #author {
     display: flex;
     flex-direction: row;
-    height: auto;
     width: 9rem;
 
     & h4 {
