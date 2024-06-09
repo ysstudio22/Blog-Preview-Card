@@ -52,6 +52,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
         font-weight: 800;
         }
    ```
+    
     It was interesting styling the span element and getting the element to be as close as the design.
 
     This challenge was also an opportunity to review adding box shadows and using the hover pseudo selector.
