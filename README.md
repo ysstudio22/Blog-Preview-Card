@@ -14,7 +14,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Blog Preview Card Repo](https://github.com/ysstudio22/Blog-Preview-Card)
 - Live Site URL: [Blog Preview Card GitHub Page](https://ysstudio22.github.io/Blog-Preview-Card/)
 
 ### Built with
