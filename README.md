@@ -23,17 +23,17 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Flexbox
 
 ### What I learned
-   The thing that caught my eye after looking the design was the "Learning" label on the card as shown below.
+    This challenge allowed me to review how to style the span elements and practice adding the box-shadows around the card.  What stood out to me from the design was the label for the preview card.  I went with the span element but I learned that there were some other options to recreate the design.  Please see the image and code below.
 
   ![Blog Preview Card Text](./assets/images/Blog%20Preview%20Card%20Text.png)
 
-   There were perhaps a couple of options to write this out, but I went with using a span element.
 
    ```HTML
    <div id="label">
     <span>Learning</span>
    </div>
    ```
+
    ```CSS
     #label {
         height: 1.75rem;
@@ -52,12 +52,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
         font-weight: 800;
         }
    ```
-    
-    It was interesting styling the span element and getting the element to be as close as the design.
 
-    This challenge was also an opportunity to review adding box shadows and using the hover pseudo selector.
 
 ### Continued development
+    
     I'd like to use this solution in an actual blog homepage and enabling a filtering feature.
 
 ## Author
